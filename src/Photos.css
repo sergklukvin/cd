@@ -1,0 +1,16 @@
+.imgWrap {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto, auto;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+}
+
+.btn {
+    width: 100%;
+    margin: 10px;
+}
